@@ -1,0 +1,12 @@
+{
+	"name": "node-api",
+	"main": "server/server.js",
+	"dependencies": {
+		"ajax": "~0.0.4",
+		"edge": "~0.9.3",
+		"edge-sql": "~0.1.2",
+		"express": "~4.0.0",
+		"mongoose": "~3.6.13",
+		"body-parser": "~1.0.1"
+	}
+}
